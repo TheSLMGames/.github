@@ -1,9 +1,3 @@
----
-description: The Best Crypto Casino Solution for Web3
----
-
-# Welcome
-
 ## **Website**
 
 [https://slm.games](https://slm.games)
